@@ -4,7 +4,7 @@ SBT JMH (seed)
 [OpenJDK JMH](http://openjdk.java.net/projects/code-tools/jmh/) is "the definitive" Java benchmarking tool.
 Using the sbt-jmh plugin you can write and run these benchmark seamlessly within SBT.
 
-This template simply includes the [sbt-jhm plugin](https://github.com/ktoso/sbt-jmh), which does all the work to make JMH work with SBT.
+This template simply includes the [sbt-jmh plugin](https://github.com/ktoso/sbt-jmh), which does all the work to make JMH work with SBT.
 
 Setup
 -----
